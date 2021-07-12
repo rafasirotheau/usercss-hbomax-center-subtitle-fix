@@ -14,8 +14,7 @@
 
 ## Como utilizar
 
-1. Adicione uma extensão/addon ao seu navegador, que faça o gerenciamento de estilos, como a 
-2. Acesse o player da HBO Max (https://play.hbomax.com/), e, através da extensão/addon, busque por este estilo ("HBO Max Center Subtitle Fix") ou simplesmente crie um novo estilo, utilizando o [código css](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/center-subtitle-fix.css) diretamente deste repositório.
+Acesse o player da HBO Max (https://play.hbomax.com/), e, através da extensão/addon, busque por este estilo ("HBO Max Center Subtitle Fix") ou simplesmente crie um novo estilo, utilizando o [código css](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/center-subtitle-fix.css) diretamente deste repositório.
 
 ## Ajuda
 
