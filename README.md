@@ -1,13 +1,15 @@
-# Stylish :: HBO Max Center Subtitle Fix
+# UserCSS :: HBO Max Center Subtitle Fix
 
-Algumas regras simples para corrigir a exibição das legendas no player web HBO Max.
+UserCSS com regras bem simples para centralizar as legendas, corrigindo a exibição no player web da HBO Max.
 
-Some simple CSS rules to proper centralize subtitles in HBO Max web player.
+A UserCSS with very simple rules to centralize subtitles, correcting the display in HBO Max web player.
 
 | Antes / Before  |  Depois / After  |
 | ------------------- | ------------------- |
 |  ![image](https://user-images.githubusercontent.com/937445/125341194-bbde3b80-e329-11eb-8f6e-2f880ab0250a.png) |  ![image](https://user-images.githubusercontent.com/937445/125341235-c7c9fd80-e329-11eb-8f8b-b1946cb14c27.png) |
 
+## FAQ
+- UserCSS? https://github.com/openstyles/stylus/wiki/UserCSS
 
 ## Como utilizar / [How to use](#how-to-use)
 
@@ -23,7 +25,7 @@ Se surgirem dúvidas de como seguir o passo 2, verifique a página de ajuda da e
 ## How to use
 
 1. Add an extension/addon that do style management to your browser, like [Stylus](https://github.com/openstyles/stylus#releases)
-2. Access HBO Max player (https://play.hbomax.com/), and using the extension/addon, search for this style ("HBO Max Center Subtitle Fix") or just create a new style, using the [css code](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/center-subtitle-fix.css) directly from this repository.
+2. Access HBO Max player (https://play.hbomax.com/), and using the extension/addon, search for this style ("HBO Max Center Subtitle Fix") or just create a new style, using the [css code](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/hbomax-center-subtitle-fix.user.css) directly from this repository.
 
 ## Help
 
