@@ -1,5 +1,7 @@
 # UserCSS :: HBO Max Center Subtitle Fix
 
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://github.com/rafasirotheau/usercss-hbomax-center-subtitle-fix/raw/main/hbomax-center-subtitle-fix.user.css)
+
 UserCSS com regras bem simples para centralizar as legendas, corrigindo a exibição no player web da HBO Max.
 
 A UserCSS with very simple rules to centralize subtitles, correcting the display in HBO Max web player.
