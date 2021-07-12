@@ -17,8 +17,7 @@ A UserCSS with very simple rules to centralize subtitles, correcting the display
 
 ## How to use
 
-1. Add an extension/addon that do style management to your browser, like [Stylus](https://github.com/openstyles/stylus#releases)
-2. Access HBO Max player (https://play.hbomax.com/), and using the extension/addon, search for this style ("HBO Max Center Subtitle Fix") or just create a new style, using the [css code](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/hbomax-center-subtitle-fix.user.css) directly from this repository.
+Access HBO Max player (https://play.hbomax.com/), and using the extension/addon, search for this style ("HBO Max Center Subtitle Fix") or just create a new style, using the [css code](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/hbomax-center-subtitle-fix.user.css) directly from this repository.
 
 
 ## Help
