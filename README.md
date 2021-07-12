@@ -23,3 +23,8 @@ Access HBO Max player (https://play.hbomax.com/), and using the extension/addon,
 ## Help
 
 If having any trouble on how to follow step 2, check the help page of the chosen extension/addon to understand how to search/add styles.
+
+
+## Links
+- https://userstyles.world/style/261/hbo-max-center-subtitle-fix
+- https://userstyles.org/styles/207924/hbo-max-center-subtitle-fix
