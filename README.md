@@ -1,6 +1,6 @@
 # UserCSS :: HBO Max Center Subtitle Fix 
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://github.com/rafasirotheau/usercss-hbomax-center-subtitle-fix/raw/main/hbomax-center-subtitle-fix.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg?logo=)](https://github.com/rafasirotheau/usercss-hbomax-center-subtitle-fix/raw/main/hbomax-center-subtitle-fix.user.css)
 
 A UserCSS with very simple rules to centralize subtitles, correcting the display in HBO Max web player.
 
@@ -12,20 +12,22 @@ A UserCSS with very simple rules to centralize subtitles, correcting the display
 
 
 ## Requirements
-- [UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS) compatible userstyle manager. [Stylus](https://github.com/openstyles/stylus#releases) is recommended.
+- [UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS) compatible userstyle manager. ![image](https://github.com/openstyles/stylus/raw/master/images/icon/16.png) [Stylus](https://github.com/openstyles/stylus#releases) is recommended.
 
 
 ## How to use
-
-Access HBO Max player (https://play.hbomax.com/), and using the extension/addon, search for this style ("HBO Max Center Subtitle Fix") or just create a new style, using the [css code](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/hbomax-center-subtitle-fix.user.css) directly from this repository.
+There are a few options:
+- If you have ![image](https://github.com/openstyles/stylus/raw/master/images/icon/16.png) [Stylus](https://github.com/openstyles/stylus#releases) installed, just click in the badge at the top of this README.
+- Access any of the [urls from the link section](#links), and install the userstyle from there.
+- Create a new style in your usertyle manager, using the [UserCSS code](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/hbomax-center-subtitle-fix.user.css) directly from this repository.
 
 
 ## Help
 
-If having any trouble on how to follow step 2, check the help page of the chosen extension/addon to understand how to search/add styles.
+If having any trouble following **How to use**, check the help page of the chosen extension/addon to understand how to install userstyles.
 
 
 ## Links
-- https://userstyles.world/style/261/hbo-max-center-subtitle-fix
+- https://userstyles.world/style/261/hbo-max-center-subtitle-fix [recommended]
 - https://uso.kkx.one/style/207924
 - https://userstyles.org/styles/207924/hbo-max-center-subtitle-fix
