@@ -27,4 +27,5 @@ If having any trouble on how to follow step 2, check the help page of the chosen
 
 ## Links
 - https://userstyles.world/style/261/hbo-max-center-subtitle-fix
+- https://uso.kkx.one/style/207924
 - https://userstyles.org/styles/207924/hbo-max-center-subtitle-fix
