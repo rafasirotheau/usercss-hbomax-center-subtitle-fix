@@ -21,13 +21,20 @@ There are a few options:
 - Access any of the [urls from the link section](#links), and install the userstyle from there.
 - Create a new style in your usertyle manager, using the [UserCSS code](https://github.com/rafasirotheau/stylish-hbomax-subtitle-fix/blob/main/hbomax-center-subtitle-fix.user.css) directly from this repository.
 
+If having any trouble on how to use, check the help page of the chosen manager to understand how to install userstyles.
 
-## Help
 
-If having any trouble following **How to use**, check the help page of the chosen extension/addon to understand how to install userstyles.
+## Issues
+
+If the fix is not working as intended, please open an issue [here](https://github.com/rafasirotheau/usercss-hbomax-center-subtitle-fix/issues), describing what is happening. I'll try to address it as soon as possible.
 
 
 ## Links
 - https://userstyles.world/style/261/hbo-max-center-subtitle-fix [recommended]
 - https://uso.kkx.one/style/207924
 - https://userstyles.org/styles/207924/hbo-max-center-subtitle-fix
+
+
+## Contributing
+
+Pull Requests are welcome! If you think there's something that could improved, just open a PR. Also, if there's any [issue]((https://github.com/rafasirotheau/usercss-hbomax-center-subtitle-fix/issues)) not being take care, that you can handle, just do it!
