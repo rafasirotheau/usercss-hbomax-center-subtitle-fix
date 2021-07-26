@@ -1,3 +1,7 @@
+### !! HBO Max finally fixed their subtitle problems. So this repository is now archived.
+
+---
+
 # UserCSS :: HBO Max Center Subtitle Fix 
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg?logo=)](https://github.com/rafasirotheau/usercss-hbomax-center-subtitle-fix/raw/main/hbomax-center-subtitle-fix.user.css)
